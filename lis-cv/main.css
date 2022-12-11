@@ -1,0 +1,28 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #505A5B;
+  background-color: #94B0DA;
+  display: inline-block;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+}
+
+ul.achievements {
+  list-style-type: circle;
+}
+
+ul.org {
+  list-style-type: circle;
+}
+
+ul.skill {
+  list-style-type: circle;
+}
